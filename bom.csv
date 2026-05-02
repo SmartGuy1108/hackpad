@@ -1,5 +1,3 @@
-# Bill of Materials — 9-Key Macropad
-
 > All prices in USD including import fees and taxes.
 
 | # | Component | Quantity | Price | Supplier | Link |
@@ -14,8 +12,6 @@
 | 8 | Outemu Blue 3-Pin MX Switches (10pcs) | 10 | included | AliExpress | [Buy](https://www.aliexpress.us/item/3256803795058460.html) |
 | 9 | Custom PCB — 2 layer, black, 5pcs (JLCPCB) | 5 | $5.00 | JLCPCB | N/A |
 
----
-
 ## Cost Summary
 
 | Category | Cost |
@@ -25,19 +21,3 @@
 | **AliExpress total** | **$36.69** |
 | PCB fabrication + shipping (JLCPCB) | $5.00 |
 | **Grand Total** | **$41.69** |
-
----
-
-## Notes
-
-- XIAO RP2040 already owned — not included in BOM cost
-- ATtiny85 programmed via Arduino as ISP using jumper cables before installation
-- 100nF capacitor used as decoupling cap on ATtiny85 VCC pin
-- WS2812B LEDs controlled independently by ATtiny85
-- Solder wire already owned — not included in BOM cost
-- Select **100NF** value when ordering capacitors
-- Select **Blue switch** when ordering Outemu switches
-- Select **White 3pcs** when ordering OLED display
-- Select **Black color, 10pcs** when ordering keycaps
-- Select **US Plug 110V** when ordering soldering iron
-- Select **Diffused 10PCS** when ordering WS2812B LEDs
