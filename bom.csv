@@ -1,14 +1,11 @@
 #,Component,Quantity,Price,Supplier,Link
 1,XDA Profile PBT Blank Black Keycaps (MX compatible 10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256805328092200.html
-2,60W Adjustable Temperature Soldering Iron (US 110V),1,$5.50,AliExpress,https://www.aliexpress.us/item/3256806925594648.html
-3,100nF Ceramic Capacitor 50V (100pcs),1 pack,included,AliExpress,https://www.aliexpress.us/item/3256811560978404.html
-4,ATtiny85-20PU DIP-8 AVR Microcontroller,1,included,AliExpress,https://www.aliexpress.us/item/3256807399719633.html
-5,SSD1306 0.96in 128x64 OLED Display (I2C white 3pcs),1,included,AliExpress,https://www.aliexpress.us/item/3256805899077405.html
-6,DIP-8 IC Socket (20pcs),1 pack,included,AliExpress,https://www.aliexpress.us/item/3256808570070772.html
-7,WS2812B 5mm RGB Through-hole LED (5V diffused 10pcs),9,included,AliExpress,https://www.aliexpress.us/item/3256806261600524.html
-8,Outemu Blue 3-Pin MX Switches (10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256803795058460.html
-9,Custom PCB 2 layer black 5pcs (JLCPCB),5,$5.00,JLCPCB,N/A
-10,AliExpress Subtotal,-,-,$30.93,-
-11,AliExpress Tax + Shipping,-,-,$5.76,-
-12,PCB + Shipping,-,-,$12.00,-
-13,Grand Total,-,-,$41.69,-
+2,ATtiny85-20PU DIP-8 AVR Microcontroller,1,included,AliExpress,https://www.aliexpress.us/item/3256807399719633.html
+3,SSD1306 0.96in 128x64 OLED Display (I2C white 3pcs),1,included,AliExpress,https://www.aliexpress.us/item/3256805899077405.html
+4,WS2812B 5mm RGB Through-hole LED (5V diffused 10pcs),9,included,AliExpress,https://www.aliexpress.us/item/3256806261600524.html
+5,Outemu Blue 3-Pin MX Switches (10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256803795058460.html
+6,Custom PCB 2 layer black 5pcs (JLCPCB),5,$5.00,JLCPCB,N/A
+7,AliExpress Subtotal,-,-,$15.13,-
+8,AliExpress Tax + Shipping,-,-,$5.78,-
+9,PCB + Shipping,-,-,$12.00,-
+10,Grand Total,-,-,$32.91,-
