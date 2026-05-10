@@ -8,17 +8,6 @@ My Hackpad is a 9 key macropad that uses 9 keyboard switches, a 0.96in oled scre
 <img width="641" height="227" alt="image" src="https://github.com/user-attachments/assets/6273f66b-9f5b-4fa9-bd42-77378716bff0" />
 <img width="518" height="380" alt="image" src="https://github.com/user-attachments/assets/2b9b8aa3-317e-47c4-9ceb-e90cd93c5099" />
 
-#,Component,Quantity,Price,Supplier,Link
-1,XDA Profile PBT Blank Black Keycaps (MX compatible 10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256805328092200.html
-2,ATtiny85-20PU DIP-8 AVR Microcontroller,1,included,AliExpress,https://www.aliexpress.us/item/3256808555620766.html?spm=a2g0o.productlist.main.11.801cl6gel6geQO&algo_pvid=50602609-ecce-48ad-855f-07c378396dc5&algo_exp_id=50602609-ecce-48ad-855f-07c378396dc5-10&pdp_ext_f=%7B%22order%22%3A%2221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.10%210.99%21%21%213.10%210.99%21%40210325a917783087227717348eeebc%2112000046478972951%21sea%21US%217621068922%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af74fba6a%3Bm03_new_user%3A-29895%3BpisId%3A5000000203537318&curPageLogUid=gMP6Stg2v8xJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008741935518%7C_p_origin_prod%3A
-3,SSD1306 0.96in 128x64 OLED Display (I2C white 3pcs),1,included,AliExpress,https://www.aliexpress.us/item/3256805899077405.html
-4,WS2812B 5mm RGB Through-hole LED (5V diffused 10pcs),9,included,AliExpress,https://www.aliexpress.us/item/3256806040849067.html?spm=a2g0o.productlist.main.10.7ab6paVEpaVEjr&algo_pvid=62cb0c92-1c9e-4fdd-96d2-34d27e3ec640&algo_exp_id=62cb0c92-1c9e-4fdd-96d2-34d27e3ec640-9&pdp_ext_f=%7B%22order%22%3A%221074%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%218.65%210.99%21%21%2158.53%216.73%21%40210311c217783083894485439e7f81%2112000036369823577%21sea%21US%217621068922%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af74fba6a%3Bm03_new_user%3A-29895%3BpisId%3A5000000203537318&curPageLogUid=7gXFasjcGqQz&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006227163819%7C_p_origin_prod%3A
-5,Outemu Blue 3-Pin MX Switches (10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256803795058460.html
-6,Custom PCB 2 layer black 5pcs (JLCPCB),5,$9.30,JLCPCB,N/A
-7,AliExpress Subtotal,-,-,$11.02,-
-8,AliExpress Total,-,-,$11.02,-
-9,PCB + Shipping,-,-,$12.00,-
-10,Grand Total,-,-,$23.02,-
 
 
 
