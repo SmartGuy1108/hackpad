@@ -12,6 +12,7 @@ My Hackpad is a 9 key macropad that uses 9 keyboard switches, a 0.96in oled scre
 Some Items I used were:
 
 XDA Profile PBT Blank Black Keycaps (MX compatible 10pcs),10,included,AliExpress,https://www.aliexpress.us/item/3256805328092200.html
+
 ATtiny85-20PU DIP-8 AVR Microcontroller,1,included,AliExpress,https://www.aliexpress.us/item/3256808555620766.html?spm=a2g0o.productlist.main.11.801cl6gel6geQO&algo_pvid=50602609-ecce-48ad-855f-07c378396dc5&algo_exp_id=50602609-ecce-48ad-855f-07c378396dc5-10&pdp_ext_f=%7B%22order%22%3A%2221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%213.10%210.99%21%21%213.10%210.99%21%40210325a917783087227717348eeebc%2112000046478972951%21sea%21US%217621068922%21ABX%211%210%21n_tag%3A-29910%3Bd%3Af74fba6a%3Bm03_new_user%3A-29895%3BpisId%3A5000000203537318&curPageLogUid=gMP6Stg2v8xJ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008741935518%7C_p_origin_prod%3A
 
 SSD1306 0.96in 128x64 OLED Display (I2C white 3pcs),1,included,AliExpress,https://www.aliexpress.us/item/3256805899077405.html
