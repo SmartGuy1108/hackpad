@@ -7,7 +7,7 @@ My Hackpad is a 9 key macropad that uses 9 keyboard switches, a 0.96in oled scre
 <img width="422" height="546" alt="image" src="https://github.com/user-attachments/assets/2048304a-e809-4db8-b929-d0c93c0cf11d" />
 <img width="641" height="227" alt="image" src="https://github.com/user-attachments/assets/6273f66b-9f5b-4fa9-bd42-77378716bff0" />
 <img width="829" height="739" alt="image" src="https://github.com/user-attachments/assets/256b751b-928d-482c-843b-b2eeefa6f206" />
-<img width="959" height="677" alt="image" src="https://github.com/user-attachments/assets/3a2287ac-f476-4ac8-bd86-f1ee4cf84085" />
+<img width="571" height="417" alt="image" src="https://github.com/user-attachments/assets/cc4fe902-ad81-4718-a7a8-2c59d2a757d4" />
 <img width="692" height="743" alt="image" src="https://github.com/user-attachments/assets/79005bf1-1cbd-4aea-9331-863c4c7017b3" />
 
 
